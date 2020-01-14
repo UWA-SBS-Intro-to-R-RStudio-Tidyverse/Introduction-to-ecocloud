@@ -36,7 +36,7 @@ Open the Terminal window within RStudio
 Type the following command:
 cd workspace  "press RETURN"
 
-git clone https://github.com/TimLanglois/BIOL4408.git "press RETURN"
+git clone https://github.com/UWA-BIOL4408-Marine-Ecology/00068010-Tim-Langlois.git "press RETURN"
 
 
 
@@ -54,6 +54,4 @@ BUT BE CAREFUL - git pull will overwrite any changes you have made to the script
 I suggest you make you own version of the code in the Analysis folders that you can edit and annotate
 
 
-Ideas for teaching
-https://jules32.github.io/2016-07-12-Oxford/dplyr_tidyr/
 
