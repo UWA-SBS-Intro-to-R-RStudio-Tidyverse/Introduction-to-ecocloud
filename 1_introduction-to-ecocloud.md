@@ -1,0 +1,60 @@
+BIOL4408 Marine Ecology: lobster density 1.
+================
+TimLanglois
+09/01/2020
+
+# Introduction-to-ecocloud
+
+To run R we are going to use an RStudio server through a new service
+called ecocloud.
+
+Each of you will have your own server and your own permanent workspace
+on ecocloud (10gb).
+
+## Logging into ecocloud
+
+Go to [app.ecocloud.org.au](app.ecocloud.org.au)
+
+Log in using AAF (which will use your University credentials)
+
+## Starting a Server
+
+Once logged in you will be on the Dashboard
+
+Go to Tools page
+
+Click ‘R (RStudio and Jupyter)’ and follow the prompts to start an R
+Server. This will set you up on a virtual RStudio server in the cloud.
+
+## Start RStudio and set working directory
+
+Once your Server has started you will be on the JupyterLab dashboard.
+
+Click on the RStudio box on the bottom right. This will open an RStudio
+session in a new tab.
+
+This workspace folder is permanent, and will not be deleted even when
+you shutdown your server. You can also access this folder and it’s
+contents from the ecocloud website.
+
+## Access data from GitHub from within RStudio:
+
+Access a GitHub repository and download a template for your code/data.
+
+This step will download and save your data and files to your workspace
+so that they are available across the server
+
+Open the Terminal window within RStudio
+
+Type the following command:
+
+cd workspace “press RETURN”
+
+git clone
+<https://github.com/UWA-BIOL4408-Marine-Ecology/Template-lobster-density.git>
+“press RETURN”
+
+### Well done\! you just cloned a git repository.
+
+I suggest you this folder so that you can edit, make new scripts and
+annotate.
