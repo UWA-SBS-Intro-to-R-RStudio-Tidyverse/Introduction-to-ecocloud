@@ -1,5 +1,5 @@
 ---
-title: "BIOL4408 Marine Ecology: lobster density 1."
+title: "Introduction-to-ecocloud"
 author: "TimLanglois"
 date: "09/01/2020"
 output: github_document
